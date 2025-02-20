@@ -9,6 +9,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 >>> Explain what software engineering is and discuss its importance in the technology industry.
+
 **Software engineering** is like a recipe for building software. It provides a structured way to create software. It involves planning, designing, coding, testing, and fixing problems to ensure the software works well and does what it is supposed to do.
 **Software Engineering Importance**
 1. Software Reliability - helps create software that works without crashing or causing problems.
@@ -19,6 +20,7 @@ Software Engineering Day1 Assignment
 
 
 >>> Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. **The Birth of Software Engineering (1968 NATO Conference)**:
 The term "software engineering" was first coined at the 1968 NATO Conference in Germany. At the time, software development was often chaotic and lacked structured processes, leading to what was called the "software crisis." This conference marked the recognition of software development as a discipline that needed engineering principles to ensure quality, reliability, and efficiency. It laid the foundation for software engineering as a formal field, emphasizing the need for systematic approaches to software development.
 2. **The Rise of Object-Oriented Programming (1980s)**:
@@ -29,6 +31,7 @@ In 2001, a group of software developers published the Agile Manifesto, which emp
 
 
 >>> List and briefly explain the phases of the Software Development Life Cycle.
+
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, and test high-quality software. It consists of several phases, each with a specific purpose and set of activities.
 
 1. **Requirement Gathering and Analysis:** In this phase, the development team works closely with stakeholders, such as clients and end-users, to understand what the software needs to accomplish. This involves collecting and documenting both functional requirements (what the software should do) and non-functional requirements (performance, security, etc.). The outcome of this phase is a clear and detailed list of requirements that serve as the foundation for the project.
@@ -41,6 +44,7 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 
 
 >>> Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 **Waterfall Methodology:**
 - Linear and sequential in approach. Each phase must be completed before the next one begins.
 - The phases involved are Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
@@ -59,6 +63,7 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 
 
 >>> Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 **SOFTWARE DEVELOPER**
 1. Writing Code: Develop and implement software solutions based on project requirements and design specifications.
 2. Debugging and Troubleshooting: Identify and fix bugs or issues in the code to ensure the software runs smoothly.
@@ -101,6 +106,7 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 
 
 >>> Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 **Integrated Development Environments (IDEs)**
 - Code Editing and Management: IDEs provide a comprehensive environment for writing, editing, and managing code. They offer features like syntax highlighting, code completion, and refactoring tools that make coding more efficient.
 - Debugging Tools: IDEs come with built-in debugging tools that help developers identify and fix errors quickly. This reduces the time spent on troubleshooting and improves code quality.
@@ -127,6 +133,7 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 
 
 >>> What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1. **Changing Requirements**
 One of the most common challenges in software engineering is dealing with changing requirements. As projects progress, stakeholders may request new features or modifications, leading to scope creep and potential delays. To address this, software engineers can adopt Agile methodologies, which allow for iterative development and continuous feedback. By breaking the project into smaller, manageable chunks and regularly reviewing progress with stakeholders, teams can adapt to changes more effectively. Clear communication is also crucial; maintaining open lines of dialogue with stakeholders helps manage expectations and ensures that everyone is aligned on priorities. Additionally, keeping detailed documentation of requirements and changes can provide a reference point and prevent misunderstandings.
 2. **Tight Deadlines**
@@ -147,6 +154,7 @@ Creating a user-friendly and intuitive interface can be difficult, particularly 
 
 
 >>> Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 1. **Unit Testing**
 Unit testing focuses on verifying the functionality of individual components or units of code, such as functions, methods, or classes. The goal is to ensure that each unit works as intended in isolation. Developers typically write unit tests during the coding phase, often using frameworks like JUnit (for Java) or pytest (for Python). Unit testing is crucial because it helps catch bugs early in the development process, making them easier and cheaper to fix. By isolating and testing small pieces of code, developers can ensure that each component behaves correctly before integrating it into the larger system.
 2. **Integration Testing**
@@ -167,6 +175,7 @@ Acceptance testing is the final phase of testing, where the software is evaluate
 
 
 >>> Define prompt engineering and discuss its importance in interacting with AI models.
+
 **Definition of Prompt Engineering**
 Prompt engineering is the practice of carefully designing and refining the inputs (or "prompts") given to AI models, particularly large language models (LLMs), to guide them toward producing desired outputs. It involves crafting questions, instructions, or statements in a way that maximizes the model's ability to understand the task and generate accurate, relevant, and useful responses. Prompt engineering requires a deep understanding of how AI models interpret language and respond to inputs, making it both an art and a science.
 
@@ -181,6 +190,7 @@ Prompt engineering is the practice of carefully designing and refining the input
 
 
 >>> Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 **Vague Prompt:**
 "Tell me about history."
 **Improved Prompt:**
