@@ -52,6 +52,7 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 - Extensive documentation is required at each phase.
 - Client involvement is limited. Clients are typically involved only at the beginning (requirements) and end (delivery).
 - Best for projects with well-defined requirements and minimal expected changes.
+
 **Agile Methodology:**
 - Iterative and incremental in approach. Development is broken into small, manageable chunks (sprints).
 - Continuous cycles of planning, design, development, testing, and review.
