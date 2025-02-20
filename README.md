@@ -172,6 +172,7 @@ Acceptance testing is the final phase of testing, where the software is evaluate
 4. Acceptance Testing confirms that the software meets user expectations and business objectives, ensuring it is ready for real-world use.
 
 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 
@@ -194,5 +195,6 @@ Prompt engineering is the practice of carefully designing and refining the input
 
 **Vague Prompt:**
 "Tell me about history."
+
 **Improved Prompt:**
 "Explain the key events and causes of the American Civil War, focusing on the economic, social, and political factors that led to the conflict. Provide a concise summary in 150–200 words."
